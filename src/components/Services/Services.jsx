@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './Services.module.css'
-import { FaCode, FaPaintbrush, FaDesktop  } from "react-icons/fa6";
+import { FaCode, FaDev,  FaLinux  } from "react-icons/fa6";
 
 function Services() {
   return (
@@ -11,21 +11,21 @@ function Services() {
                 <FaCode />
                 <h4>Web Development</h4>
                 <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni recusandae enim consectetur sapiente necessitatibus neque eos ipsa ullam minima nulla.
+                I'm studying about it.
                 </p>
             </div>
             <div className={styles.services_items}>
-                <FaPaintbrush />
-                <h4>Web Design</h4>
+                <FaDev />
+                <h4>DevOps</h4>
                 <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni recusandae enim consectetur sapiente necessitatibus neque eos ipsa ullam minima nulla.
+                I can develop quickly.
                 </p>
             </div>
             <div className={styles.services_items}>
-                <FaDesktop />
-                <h4>Front-end Consulting</h4>
+                < FaLinux />
+                <h4>System Engineer</h4>
                 <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni recusandae enim consectetur sapiente necessitatibus neque eos ipsa ullam minima nulla.
+                I'm an expert in many types of OS.
                 </p>
             </div>
         </div>

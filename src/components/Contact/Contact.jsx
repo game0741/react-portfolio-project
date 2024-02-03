@@ -9,29 +9,29 @@ function Contact() {
             <div className={styles.contact_info}>
                 <h3>Get in touch</h3>
                 <p className={styles.contact_desc}>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga eius eligendi in laboriosam delectus ipsum inventore alias dolorem ducimus aliquid.
+                 Please believe in us.
                 </p>
                 <p className={styles.contact_address}>
-                    123 Main Street <br />
-                    Bangkok, Thailand
+                 Bangkok, Thailand <br />
+
                 </p>
-                <p><FaPhone /> (+66) 98 555 1234</p>
-                <p><FaEnvelope /> support@site.com</p>
+                <p><FaPhone /> (+66) 61 356 1390 </p>
+                <p><FaEnvelope /> dataone3210@gmail.com</p>
             </div>
             <div className={styles.contact_form}>
                 <form action="">
                     <div className={styles.input_group}>
                         <div>
                             <label htmlFor="first name">First Name</label>
-                            <input type="text" placeholder='eg. John' />
+                            <input type="text" placeholder='eg. Woradon' />
                         </div>
                         <div>
                             <label htmlFor="last name">Last Name</label>
-                            <input type="text" placeholder='eg. Doe' />
+                            <input type="text" placeholder='eg. Kaowkong' />
                         </div>
                     </div>
                     <label htmlFor="email address">Email address</label>
-                    <input type="email" placeholder='eg. johndoe@gmail.com' />
+                    <input type="email" placeholder='eg. woradon@gmail.com' />
                     <label htmlFor="email address">Your message</label>
                     <textarea name="" id="" cols="30" rows="10" placeholder='Type here'></textarea>
                     <button type='submit'>Submit</button>

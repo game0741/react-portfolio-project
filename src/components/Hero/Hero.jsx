@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './Hero.module.css'
-import { FaGithub, FaLinkedinIn, FaFacebookF } from "react-icons/fa6";
+import { FaGithub, FaLinkedinIn, FaLine } from "react-icons/fa6";
 import { TypeAnimation } from 'react-type-animation';
 import Tilt from 'react-parallax-tilt';
 
@@ -11,7 +11,7 @@ function Hero() {
         <div className={styles.hero_con}>
             <div className={styles.hero_info}>
                 <p className={styles.text_1}>Hi, its' me</p>
-                <h3 className={styles.text_2}>John Doe</h3>
+                <h3 className={styles.text_2}>Woradon Kaowkong</h3>
                 <p className={styles.text_3}>
                   <span style={{ marginRight: '10px'}}>I'm a</span>
                   <TypeAnimation
@@ -25,11 +25,12 @@ function Hero() {
                     repeat={Infinity}
                   />
                 </p>
-                <p className={styles.text_4}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga fugiat commodi <br /> quas cupiditate minus dolore nulla eos accusantium labore explicabo.</p>
+                <p className={styles.text_4}>
+                 I'm doing research on Front-end Developer.</p>
                 <ul className={styles.hero_social}>
                     <li><a href="#"><FaGithub /></a></li>
                     <li><a href="#"><FaLinkedinIn /></a></li>
-                    <li><a href="#"><FaFacebookF /></a></li>
+                    <li><a href="#"><FaLine /></a></li>
                 </ul>
             </div>
             <Tilt scale={1.2} transitionSpeed={2500} tiltReverse={true}>

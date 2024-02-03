@@ -21,7 +21,7 @@
             & .text_2 {
                 font-size: 64px;
                 font-weight: bold;
-                color: #0085FF;
+                color: #48ff00;
             }
             
             & .text_3 {
@@ -41,7 +41,7 @@
             width: 300px;
             height: 300px;
             border-radius: 100%;
-            background-image: url('https://images.unsplash.com/photo-1615109398623-88346a601842?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+            background-image: url('https://i.imgur.com/bOXe2zu.jpg');
             background-size: cover;
             background-position: center;
             margin-right: 120px;

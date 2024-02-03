@@ -10,10 +10,10 @@ function Number() {
         <div className={styles.number_con}>
             <div className={styles.number_items}>
                 <h3>
-                    <VisibilitySensor partialVisibility offset={{ bottom: 200 }}>
+                    <VisibilitySensor partialVisibility offset={{ bottom: 100 }}>
                         {({ isVisible }) => (
                         <div>
-                            {isVisible ? <CountUp start={0} end={100} duration={5} /> : null}+
+                            {isVisible ? <CountUp start={0} end={50} duration={5} /> : null}+
                         </div>
                         )}
                     </VisibilitySensor>
@@ -22,10 +22,10 @@ function Number() {
             </div>
             <div className={styles.number_items}>
                 <h3>
-                    <VisibilitySensor partialVisibility offset={{ bottom: 200 }}>
+                    <VisibilitySensor partialVisibility offset={{ bottom: 100 }}>
                         {({ isVisible }) => (
                         <div>
-                            {isVisible ? <CountUp start={0} end={50} duration={5} /> : null}+
+                            {isVisible ? <CountUp start={0} end={20} duration={5} /> : null}+
                         </div>
                         )}
                     </VisibilitySensor>
@@ -34,7 +34,7 @@ function Number() {
             </div>
             <div className={styles.number_items}>
                 <h3>
-                    <VisibilitySensor partialVisibility offset={{ bottom: 200 }}>
+                    <VisibilitySensor partialVisibility offset={{ bottom: 100 }}>
                         {({ isVisible }) => (
                         <div>
                             {isVisible ? <CountUp start={0} end={10} duration={5} /> : null}+
@@ -46,10 +46,10 @@ function Number() {
             </div>
             <div className={styles.number_items}>
                 <h3>
-                    <VisibilitySensor partialVisibility offset={{ bottom: 200 }}>
+                    <VisibilitySensor partialVisibility offset={{ bottom: 100 }}>
                         {({ isVisible }) => (
                         <div>
-                            {isVisible ? <CountUp start={0} end={200} duration={5} /> : null}+
+                            {isVisible ? <CountUp start={0} end={100} duration={5} /> : null}+
                         </div>
                         )}
                     </VisibilitySensor>

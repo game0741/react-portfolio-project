@@ -11,37 +11,37 @@ function Portfolio() {
             <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
               <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="coding" />
             </Tilt>
-            <p>Project Title</p>
+            <p>Project Development</p>
         </div>
         <div className={styles.port_items}>
             <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-              <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="coding" />
+              <img src="https://images.unsplash.com/photo-1629654291663-b91ad427698f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="coding" />
             </Tilt>
-            <p>Project Title</p>
+            <p>Project Linux</p>
         </div>
         <div className={styles.port_items}>
             <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-              <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="coding" />
+              <img src="https://news.sophos.com/wp-content/uploads/2020/05/Docker-Logo-White-RGB_Vertical-BG_0.png" alt="coding" />
             </Tilt>
-            <p>Project Title</p>
+            <p>docker</p>
         </div>
         <div className={styles.port_items}>
             <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-              <img src="https://images.unsplash.com/photo-1565106430482-8f6e74349ca1?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="coding" />
+              <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/VirtualBox_Kali_Linux_21.01_x64_Desktop_GER_26_02_2021_16_59_25.png" alt="coding" />
             </Tilt>
-            <p>Project Title</p>
+            <p>kali DDos</p>
         </div>
         <div className={styles.port_items}>
             <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-              <img src="https://images.unsplash.com/photo-1547658719-da2b51169166?q=80&w=3464&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="coding" />
+              <img src="https://miro.medium.com/v2/resize:fit:1400/1*ycIMlwgwicqlO6PcFRA-Iw.png" alt="coding" />
             </Tilt>
-            <p>Project Title</p>
+            <p>Python deploy</p>
         </div>
         <div className={styles.port_items}>
             <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-              <img src="https://images.unsplash.com/photo-1624996752380-8ec242e0f85d?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="coding" />
+              <img src="https://images.ctfassets.net/xwxknivhjv1b/3TJC8kD8b80vzQFbJlbxNJ/2d8df9837f4e217342ef6e12cd1ef7d9/API_Hero.svg" alt="coding" />
             </Tilt>
-            <p>Project Title</p>
+            <p>API</p>
         </div>
       </div>
     </div>
